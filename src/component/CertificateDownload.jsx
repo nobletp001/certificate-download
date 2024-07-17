@@ -44,7 +44,7 @@ const CertificateDownload = () => {
     return (
         <div className="container-box">
             <div className="container">
-                <h1>Certificate Download</h1>
+                <h1>Download Your Certificate</h1>
                 <input
                     type="text"
                     placeholder="Enter your registration full name"
